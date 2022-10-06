@@ -11,7 +11,7 @@ h2 {
   font-size: 200%;
 }
 body {
-  height: 100vh;
+  height: 100%;
   width: 100%;
   background-color: rgb(255, 255, 255);
   display: flex;
