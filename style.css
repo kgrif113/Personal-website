@@ -2,13 +2,13 @@ h1 {
   color: rgb(47, 47, 47);
   font-family: "Amatic SC", cursive;
   text-align: center;
-  font-size: 200%;
+  font-size: 300%;
 }
 h2 {
   color: rgb(47, 47, 47);
   font-family: "Amatic SC", cursive;
   text-align: center;
-  font-size: 200%;
+  font-size: 300%;
 }
 body {
   height: 100%;
@@ -25,7 +25,7 @@ div {
   color: rgb(47, 47, 47);
   font-family: "Amatic SC", cursive;
   text-align: center;
-  font-size: 200%;
+  font-size: 300%;
   height: fit-content;
 }
 a {
@@ -69,7 +69,7 @@ ul {
   width: 100%;
 }
 .email {
-  font-size: 200%;
+  font-size: 300%;
 }
 .flexbox {
   /* border: 2px, solid, black; */
