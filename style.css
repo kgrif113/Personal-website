@@ -71,3 +71,7 @@ li {
 #email {
   width: 100%;
 }
+blockquote {
+  align-items: center;
+  align-content: center;
+}
