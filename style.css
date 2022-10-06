@@ -63,8 +63,7 @@ ul {
   flex-basis: 80%;
   top: 0%;
 }
-li {
-}
+
 .topnav {
   font-size: xx-large;
 }
@@ -73,13 +72,19 @@ li {
 }
 .flexbox {
   /* border: 2px, solid, black; */
-  /* height: 100vh; */
-  width: 100%;
   border: 5px black solid;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
   /* scroll-behavior: auto; */
-  /* overflow-y: scroll;
-  overflow-x: visible; */
+  /* overflow: auto; */
+  align-items: center;
+}
+#first-post {
+  width: 30%;
+  height: 30%;
+}
+
+.email {
+  width: 100%;
 }
