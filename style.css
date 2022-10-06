@@ -68,3 +68,6 @@ li {
 .topnav {
   font-size: xx-large;
 }
+#email {
+  width: 100%;
+}
