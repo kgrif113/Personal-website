@@ -68,8 +68,8 @@ ul {
   font-size: xx-large;
   width: 100%;
 }
-#email {
-  width: 100%;
+.email {
+  font-size: xxx-large;
 }
 .flexbox {
   /* border: 2px, solid, black; */
@@ -85,7 +85,6 @@ ul {
   width: 30%;
   height: 30%;
 }
-
-.email {
-  width: 100%;
+.phonenumber {
+  font-size: x-large;
 }
