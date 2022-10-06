@@ -71,7 +71,10 @@ li {
 #email {
   width: 100%;
 }
-blockquote {
-  align-items: center;
-  align-content: center;
+.flexbox {
+  border: 2px, solid, black;
+  /* height: 20vh; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
