@@ -88,3 +88,6 @@ ul {
 .phonenumber {
   font-size: 300%;
 }
+html {
+  scroll-behavior: smooth;
+}
